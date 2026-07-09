@@ -13,7 +13,7 @@ Hello! I'm Dr. Omrani Mohamed Amine, a passionate developer from Tunisia 🇹�
 - 👨‍⚕️ **Profession:** Software Developer & Researcher
 - 🌍 **Location:** Tunisia
 - 📚 **Interests:** AI & Machine Learning 🤖, Data Science 📊, Open Source Contributions 🌍
-- 🎓 **Education:** [Your Degree/Field] from [Your Institution]
+- 🎓 **Education:** [Your Degree/Field] from [University of Monastir]
 
 ## 📂 Projects
 
@@ -27,10 +27,10 @@ Feel free to explore and contribute!
 
 ## 📫 Contact Me
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Website:** [yourwebsite.com](http://yourwebsite.com)
+- 📧 **Email:** [mohamedamine.omrani@fst.utm.tn](mailto:mohamedamine.omrani@fst.utm.tn)
+- 🌐 **Website:** [dromrani.tn](https://dromrani.tn/)
 - 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-amine-omrani-62366453/)
 
 ## 📝 Blog Posts
 
