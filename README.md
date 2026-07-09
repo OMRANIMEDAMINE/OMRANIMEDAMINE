@@ -1,52 +1,144 @@
-# 👋 Welcome to Dr. Omrani Mohamed Amine's GitHub Profile
+# Hi there 👋 I'm Dr. Mohamed Amine Omrani
 
-Hello! I'm Dr. Omrani Mohamed Amine, a passionate developer from Tunisia 🇹🇳. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
+<div align="center">
 
-## 🛠️ Technologies & Tools
+### Researcher • Software Engineer • AI & Optimization Enthusiast
 
-- **Languages:** Python 🐍, JavaScript 🌐, C++ 💻
-- **Frameworks:** Django 🌟, React ⚛️
-- **Tools:** Git 🦸, Docker 🐳, VSCode 💻
+[🌐 Website](https://dromrani.tn) •
+[💼 LinkedIn](https://www.linkedin.com/in/mohamed-amine-omrani-62366453/) •
+📧 mohamedamine.omrani@fst.utm.tn
 
-## 🚀 About Me
+</div>
 
-- 👨‍⚕️ **Profession:** Software Developer & Researcher
-- 🌍 **Location:** Tunisia
-- 📚 **Interests:** AI & Machine Learning 🤖, Data Science 📊, Open Source Contributions 🌍
-- 🎓 **Education:** [Your Degree/Field] from [University of Monastir]
+---
 
-## 📂 Projects
+## 👨‍💻 About Me
 
-Here are some of my notable projects:
+I am a Tunisian researcher and software engineer passionate about solving complex optimization problems through Artificial Intelligence, Constraint Programming, and Operations Research.
 
-- [**Project Name 1**](link-to-project): A brief description of what this project is about.
-- [**Project Name 2**](link-to-project): A brief description of what this project is about.
-- [**Project Name 3**](link-to-project): A brief description of what this project is about.
+My work combines academic research with industrial software development, focusing on designing efficient algorithms, intelligent decision-support systems, and scalable software architectures.
 
-Feel free to explore and contribute!
+### My research interests include
 
-## 📫 Contact Me
+- 🧠 Artificial Intelligence
+- ⚙️ Constraint Programming
+- 📊 Combinatorial Optimization
+- 🔬 Operations Research
+- 🤖 Decision Support Systems
+- ☁️ Cloud & Enterprise Software
+- 💡 Algorithm Design
 
-- 📧 **Email:** [mohamedamine.omrani@fst.utm.tn](mailto:mohamedamine.omrani@fst.utm.tn)
-- 🌐 **Website:** [dromrani.tn](https://dromrani.tn/)
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-amine-omrani-62366453/)
+---
 
-## 📝 Blog Posts
+## 🛠 Tech Stack
 
-Check out my latest blog posts on technology and development:
+### Programming Languages
 
-- [**Blog Post 1**](link-to-blog-post): A brief summary of the blog post.
-- [**Blog Post 2**](link-to-blog-post): A brief summary of the blog post.
+- Java
+- Python
+- C++
+- JavaScript
+- PHP
+- SQL
+
+### Frameworks & Technologies
+
+- IBM ILOG CP Optimizer
+- Spring Boot
+- Django
+- React
+- Docker
+- Git
+- Linux
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+---
+
+## 🔬 Research
+
+My research focuses on developing efficient optimization models and algorithms for solving NP-hard combinatorial problems using:
+
+- Constraint Programming (CP)
+- Symmetry Breaking
+- Lexicographic Optimization
+- Graph Algorithms
+- Metaheuristics
+- Artificial Intelligence
+
+I actively work on designing new constraints, search strategies, and optimization techniques that improve solver performance on challenging real-world problems.
+
+---
+
+## 🚀 Current Interests
+
+- Constraint Programming
+- Artificial Intelligence
+- Explainable AI
+- Optimization Algorithms
+- Scheduling Problems
+- Smart Decision Systems
+- Enterprise Software Development
+
+---
+
+## 📂 Featured Projects
+
+Here are some repositories you'll find on my GitHub:
+
+- 🔹 Optimization Models using IBM CP Optimizer
+- 🔹 Constraint Programming Experiments
+- 🔹 AI & Algorithm Research
+- 🔹 Enterprise Web Applications
+- 🔹 Decision Support Systems
+- 🔹 Open Source Utilities
+
+More projects are continuously being published.
+
+---
 
 ## 📈 GitHub Stats
 
-![Dr. Omrani Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ## 🎯 Goals
 
-- 🌟 Contribute to open-source projects
-- 🛠️ Develop innovative software solutions
-- 📚 Continue learning and growing in the tech field
+- Publish impactful research
+- Advance Constraint Programming techniques
+- Build intelligent optimization software
+- Contribute to open-source research tools
+- Bridge academic research and industrial applications
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just say hi! 😊
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborations involving:
+
+- Research projects
+- AI & Optimization
+- Constraint Programming
+- Software Engineering
+- Open Source
+
+📧 **Email:** mohamedamine.omrani@fst.utm.tn
+
+🌐 **Website:** https://dromrani.tn
+
+💼 **LinkedIn:** https://www.linkedin.com/in/mohamed-amine-omrani-62366453/
+
+---
+
+> *"Turning mathematical models into practical intelligent solutions."*
